@@ -7,3 +7,5 @@ DXjZPULLxYr17uwoI01bNLQbtFemEgo7 : find inhere/ -size 1033c
 HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs : find / -user bandit7 -group bandit6 -size 33c -type f 2>/dev/null
 cvX2JJa4CFALtqS87jk27qwqGhBM9plV : grep * millionth
 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR : sort data.txt | uniq -u
+truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk : strings data.txt | grep ==
+IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR : base64 -d data.txt
